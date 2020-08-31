@@ -1,0 +1,10 @@
+PC\C:
+PC\C:\ProgramFiles
+PC\C:\ProgramFiles\File(1)(1).txt
+PC\C:\ProgramFiles\File(1)(2).txt
+PC\C:\ProgramFiles\File.txt
+PC\D:
+PC\D:\Programming
+PC\D:\Programming\C#.txt
+PC\D:\Programming\C++.txt
+PC\D:\Programming\Java.txt
