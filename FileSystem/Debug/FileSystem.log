@@ -1,0 +1,8 @@
+﻿  FileSystem.cpp
+D:\Programming\C++\Projects\FileSystem\FileSystem\FileSystem.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\C++\Projects\FileSystem\FileSystem\FileSystem.cpp(84,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\C++\Projects\FileSystem\FileSystem\FileSystem.cpp(120,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\C++\Projects\FileSystem\FileSystem\FileSystem.cpp(268,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\C++\Projects\FileSystem\FileSystem\FileSystem.cpp(277,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\C++\Projects\FileSystem\FileSystem\FileSystem.cpp(316,21): warning C4018: '<': signed/unsigned mismatch
+  FileSystem.vcxproj -> D:\Programming\C++\Projects\FileSystem\Debug\FileSystem.exe
